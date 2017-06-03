@@ -1,0 +1,9 @@
+{
+    "grizzlybear_hurt":{"category": "neutral", "sounds": ["wa:grizzlybear_hurt"], "subtitle": "wa.subtitle.grizzlybear_hurt" },
+   
+    "grizzlybear_death":{"category": "neutral", "sounds": ["wa:grizzlybear_death"], "subtitle": "wa.subtitle.grizzlybear_death" },
+
+    "grizzlybear_ambient":{"category": "neutral", "sounds": ["wa:grizzlybear_ambient"], "subtitle": "wa.subtitle.grizzlybear_ambient" },
+   
+    "grizzlybear_step":{"category": "neutral", "sounds": ["wa:grizzlybear_step"], "subtitle": "wa.subtitle.grizzlybear_step" }
+}
